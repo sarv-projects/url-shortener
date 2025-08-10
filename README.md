@@ -23,8 +23,8 @@ A Java Spring Boot backend application that provides URL shortening service with
 1. Clone the repository
 
 ```bash
-git clone https://github.com/yourusername/url-shortener-springboot.git
-cd url-shortener-springboot
+git clone https://github.com/yourusername/url-shortener.git
+cd url-shortener
 ````
 
 2. Configure PostgreSQL
