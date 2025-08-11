@@ -23,7 +23,7 @@ A Java Spring Boot backend application that provides URL shortening service with
 1. Clone the repository
 
 ```bash
-git clone https://github.com/yourusername/url-shortener.git
+git clone https://github.com/sarv-projects/url-shortener.git
 cd url-shortener
 ````
 
