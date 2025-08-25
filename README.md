@@ -1,6 +1,7 @@
 
-# URL Shortener Backend
+# URL Shortener Backend  
 https://github.com/sarv-projects/url-shortener
+
 A Java Spring Boot backend application that provides URL shortening service with PostgreSQL integration. This project generates unique short codes for long URLs, supports redirection, and tracks visit counts. Designed to handle 1000+ daily requests reliably.
 
 ## Features
@@ -57,6 +58,7 @@ mvn spring-boot:run
 * Enhance analytics with detailed visit tracking (Python integration)
 * Add authentication and rate-limiting
 * Dockerize for easy deployment
+
 
 
 
